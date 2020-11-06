@@ -96,7 +96,7 @@ a:active {
 .Rrr{
   text-align: right;
   color: rgb(255, 0, 0);
-  animation: left_to_right 3s ease;
+  animation: left_to_right 3s ease-out;
   width: 100%;
   line-height: 1px;
 }
